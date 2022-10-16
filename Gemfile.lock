@@ -91,6 +91,7 @@ GEM
       reline (>= 0.3.1)
     dry-cli (0.7.0)
     erubi (1.11.0)
+    foreman (0.87.2)
     globalid (1.0.0)
       activesupport (>= 5.0)
     i18n (1.12.0)
@@ -221,6 +222,7 @@ DEPENDENCIES
   capybara
   cssbundling-rails
   debug
+  foreman
   jbuilder
   jsbundling-rails
   pg (~> 1.1)
